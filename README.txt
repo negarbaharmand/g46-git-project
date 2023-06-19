@@ -1,1 +1,1 @@
-This is a test project made for the "Git lecture"!
+This is a test project created for the "Git lecture"!
